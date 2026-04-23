@@ -1,3 +1,2 @@
 <?php
-function srednia(, ) { return ( + ) / 2; }
-function srednia_wazona(, ) { return (*7 + *3) / 10; }
+function srednia_wazona($a, $b) { return ($a*7 + $b*3) / 10; }
