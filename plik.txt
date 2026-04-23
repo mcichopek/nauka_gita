@@ -1,1 +1,2 @@
 To jest pierwszy plik do nauki gita.
+Druga linia - modyfikacja.
